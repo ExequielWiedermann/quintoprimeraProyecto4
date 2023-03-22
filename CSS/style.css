@@ -6,3 +6,11 @@ h1{
     width: 100px;
     height: 100px;
 }
+
+#selector1{
+    color: red;
+}
+
+.selector2{
+    color:yellow;
+}
